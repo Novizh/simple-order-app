@@ -1,0 +1,3 @@
+export const SET_NAMES = `SET_NAMES`;
+export const SET_ORDERS = `SET_ORDERS`;
+export const SET_PRODUCT_DETAILS = `SET_PRODUCT_DETAILS`;
